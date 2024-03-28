@@ -159,6 +159,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ignore Word documents
-*.docx
-~$*.docx
+# Ignore CRISP-DM.txt
+CRISP-DM.txt
+
+# Exclude requirements.txt from being ignored
+!requirements.txt
