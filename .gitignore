@@ -164,3 +164,7 @@ CRISP-DM.txt
 
 # Exclude requirements.txt from being ignored
 !requirements.txt
+
+#other
+Utils/utils.txt
+
