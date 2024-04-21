@@ -117,11 +117,11 @@ By utilizing Pandas functions such as df.shape(), df.head(), df.info(), and df.d
 
 ---
 ### Power BI Dashboard
-![image](Capture.PNG)
+![image](Images/Capture.PNG)
 
-![image](Capture1.PNG)
+![image](Images/Capture1.PNG)
 
-![image](Capture2.PNG)
+![image](Images/Capture2.PNG)
 
 
 ---
