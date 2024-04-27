@@ -43,11 +43,11 @@ Exploratory Data Analysis (EDA) plays a vital role in understanding and extracti
 
 ### Introduction
 
-The analysis was performed using the Python programming language and popular libraries such as Pandas, NumPy, Seaborn and Matplotlib. These libraries facilitated various analysis tasks, including examining individual variables, exploring relationships between variables, analyzing correlations, and handling duplicate and missing data.
+The analysis was performed using the Python programming language and popular libraries such as Pandas, NumPy, Seaborn, Sklearn and Matplotlib. These libraries facilitated various analysis tasks, including examining individual variables, exploring relationships between variables, analyzing correlations, handling duplicate and missing data as well as the modeling process.
 
 The analysis was conducted in a Jupyter Notebook environment, which allowed for an interactive and organized workflow. Standard EDA procedures were followed, including assessing data quality, performing descriptive statistics, and creating visualizations.
 
-The dataset was explored to understand its structure, check for missing or duplicated data, and convert variables to appropriate formats when necessary. Descriptive statistics provided a summary of the data, allowing for an understanding of the central tendencies, variations, and distributions of the funding received by Indian startups. Visualizations, such as histograms, kde plots, box plots and scatter plots were created to identify patterns, trends, and relationships between variables. The analysis also involved examining the relationship between churn and other variables to identify key indicators to customer churn.
+The dataset was explored to understand its structure, check for missing or duplicated data, and convert variables to appropriate formats when necessary. Descriptive statistics provided a summary of the data, allowing for an understanding of the central tendencies, variations. Visualizations, such as histograms, kde plots, box plots and scatter plots were created to identify patterns, trends, and relationships between variables. The analysis also involved examining the relationship between churn and other variables to identify key indicators to customer churn.
 
 ##### Install Packages
 
@@ -117,11 +117,11 @@ By utilizing Pandas functions such as df.shape(), df.head(), df.info(), and df.d
 
 ---
 ### Power BI Dashboard
-![image](Capture.PNG)
+![image](Images/Capture.PNG)
 
-![image](Capture1.PNG)
+![image](Images/Capture1.PNG)
 
-![image](Capture2.PNG)
+![image](Images/Capture2.PNG)
 
 
 ---
